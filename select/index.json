@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "ながいよる",
+  "base_artist": "higma",
+  "createdAt": "2026-03-19T01:52:00.436090Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ながいよる (feat. somunia)",
+      "artist": "higma",
+      "has_synced": false,
+      "path": "select/pl_01_ながいよる_(feat._somunia)_higma.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ながいよる",
+      "artist": "higma",
+      "has_synced": false,
+      "path": "select/localdb_01_ながいよる_higma.txt",
+      "repo_name": "KDaMHtlHAj8"
+    }
+  ]
+}
